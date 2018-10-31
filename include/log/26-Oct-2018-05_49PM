@@ -1,0 +1,34 @@
+2018-10-26 17:50:40,293 INFO     [browser_driver_class:186] Login successful.
+2018-10-26 17:50:40,294 INFO     [browser_driver_class:186] Login successful.
+2018-10-26 17:50:40,294 INFO     [browser_driver_class:186] Login successful.
+2018-10-26 17:50:40,316 INFO     [browser_driver_class:186] Login successful.
+2018-10-26 17:50:40,323 INFO     [browser_driver_class:186] Login successful.
+2018-10-26 17:50:41,058 INFO     [browser_driver_class:186] Login successful.
+2018-10-26 17:50:42,647 INFO     [browser_driver_class:133] Start close application...
+2018-10-26 17:50:42,647 INFO     [browser_driver_class:133] Start close application...
+2018-10-26 17:50:42,648 INFO     [browser_driver_class:133] Start close application...
+2018-10-26 17:50:42,648 INFO     [browser_driver_class:133] Start close application...
+2018-10-26 17:50:42,648 INFO     [browser_driver_class:133] Start close application...
+2018-10-26 17:50:43,059 INFO     [browser_driver_class:133] Start close application...
+2018-10-26 17:51:10,785 ERROR    [browser_driver_class:146] No open application:
+ [Alert Text: None
+Message: unexpected alert open: {Alert text : запрос не выполнен}
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:51:26,286 INFO     [browser_driver_class:52] The driver is terminating...
+2018-10-26 17:51:36,047 DEBUG    [browser_driver_class:160] Exceptions when closing applications:
+ [empty range for randrange() (0,0, 0)]
+2018-10-26 17:51:36,130 INFO     [browser_driver_class:162] Close all the window.
+2018-10-26 17:51:36,130 INFO     [browser_driver_class:101] Launch application: [Call-центр]
+2018-10-26 17:51:36,937 DEBUG    [browser_driver_class:160] Exceptions when closing applications:
+ [Message: unknown error: Element <div class="x-tool x-box-item x-tool-default x-tool-after-title" role="presentation" id="tool-1213" data-qtip="Закрыть" style="right: auto; left: 977px; top: 0px; margin: 0px;">...</div> is not clickable at point (990, 13). Other element would receive the click: <div id="tool-1357-toolEl" data-ref="toolEl" class="x-tool-tool-el x-tool-img x-tool-close " role="presentation"></div>
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:51:38,567 DEBUG    [browser_driver_class:56] The hidden display ends...
+2018-10-26 17:51:39,068 DEBUG    [browser_driver_class:160] Exceptions when closing applications:
+ [Message: unknown error: Element <div class="x-tool x-box-item x-tool-default x-tool-after-title" role="presentation" id="tool-1144" data-qtip="Закрыть" style="right: auto; left: 873px; top: 0px; margin: 0px;">...</div> is not clickable at point (990, 13). Other element would receive the click: <div id="tool-1357-toolEl" data-ref="toolEl" class="x-tool-tool-el x-tool-img x-tool-close " role="presentation"></div>
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]

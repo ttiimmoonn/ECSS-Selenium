@@ -1,0 +1,1089 @@
+2018-10-26 17:14:13,886 INFO     [browser_driver_class:185] Login successful.
+2018-10-26 17:14:13,907 INFO     [browser_driver_class:185] Login successful.
+2018-10-26 17:14:13,876 INFO     [browser_driver_class:185] Login successful.
+2018-10-26 17:14:15,937 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:14:15,937 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:14:15,938 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:14:25,465 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ [empty range for randrange() (0,0, 0)]
+2018-10-26 17:14:25,541 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:14:25,541 INFO     [browser_driver_class:100] Launch application: [Call-центр]
+2018-10-26 17:14:29,524 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:14:29,525 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:14:29,525 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:14:29,525 INFO     [browser_driver_class:100] Launch application: [Call-центр]
+2018-10-26 17:14:29,536 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:14:29,536 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:14:29,537 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:14:29,537 INFO     [browser_driver_class:100] Launch application: [Call-центр]
+2018-10-26 17:14:29,569 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="9e4338a930acb9d9f8e958f8ae7461d9", element="0.8120729484345732-1")>]
+2018-10-26 17:14:30,348 ERROR    [browser_driver_class:107] Error starting application:
+ [Message: unknown error: Element <li class="app" name="cc.manager.icon" data-qtip="Call-центр" role="option" tabindex="-1" data-recordindex="0" data-recordid="6" data-boundview="apps">...</li> is not clickable at point (59, 61). Other element would receive the click: <a class="x-btn x-unselectable x-box-item x-toolbar-item x-btn-default-toolbar-medium" hidefocus="on" unselectable="on" role="button" aria-hidden="false" aria-disabled="false" id="button-1121" tabindex="-1" data-qtip="Добавить пользователя" data-componentid="button-1121" style="right: auto; left: 0px; top: 0px; margin: 0px;">...</a>
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:30,349 INFO     [browser_driver_class:51] The driver is terminating...
+2018-10-26 17:14:33,545 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-2")>]
+2018-10-26 17:14:33,558 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-2")>]
+2018-10-26 17:14:37,117 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-4")>]]
+2018-10-26 17:14:37,117 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-4")>]
+2018-10-26 17:14:37,133 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-4")>]]
+2018-10-26 17:14:37,133 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-3")>]
+2018-10-26 17:14:37,158 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:37,158 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-3")>]
+2018-10-26 17:14:37,169 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:37,169 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-3")>]
+2018-10-26 17:14:37,188 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:14:37,188 INFO     [browser_driver_class:74] Begins the search for text objects: ['Call-центр'].
+2018-10-26 17:14:37,189 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:37,189 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-3")>]
+2018-10-26 17:14:37,205 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:37,205 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-4")>]
+2018-10-26 17:14:37,259 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:14:37,259 INFO     [browser_driver_class:74] Begins the search for text objects: ['Call-центр'].
+2018-10-26 17:14:41,190 DEBUG    [browser_driver_class:77] Work with object: [Call-центр]
+2018-10-26 17:14:41,205 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.966957367943081-7")>]]
+2018-10-26 17:14:41,205 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:14:41,205 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:14:41,261 DEBUG    [browser_driver_class:77] Work with object: [Call-центр]
+2018-10-26 17:14:41,273 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.9988054013257965-7")>]]
+2018-10-26 17:14:41,274 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:14:41,274 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:14:42,510 INFO     [browser_driver_class:58] The driver is complete.
+2018-10-26 17:14:42,521 ERROR    [browser_driver_class:63] Error close process:
+ [name 'a' is not defined]
+2018-10-26 17:14:50,304 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:14:50,304 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:14:50,304 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:14:50,304 INFO     [browser_driver_class:100] Launch application: [Домены]
+2018-10-26 17:14:50,399 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:14:50,399 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:14:50,399 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:14:50,399 INFO     [browser_driver_class:100] Launch application: [Домены]
+2018-10-26 17:14:54,319 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-2")>]
+2018-10-26 17:14:54,424 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-2")>]
+2018-10-26 17:14:56,610 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-4")>]]
+2018-10-26 17:14:56,610 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-3")>]
+2018-10-26 17:14:56,635 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:56,635 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-3")>]
+2018-10-26 17:14:56,650 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:56,650 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-4")>]
+2018-10-26 17:14:56,712 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:14:56,712 INFO     [browser_driver_class:74] Begins the search for text objects: ['Домены'].
+2018-10-26 17:14:56,749 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-4")>]]
+2018-10-26 17:14:56,749 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-3")>]
+2018-10-26 17:14:56,776 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:14:56,776 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-4")>]
+2018-10-26 17:14:56,828 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:14:56,828 INFO     [browser_driver_class:74] Begins the search for text objects: ['Домены'].
+2018-10-26 17:15:00,715 DEBUG    [browser_driver_class:77] Work with object: [Домены]
+2018-10-26 17:15:00,737 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5819195573453597-7")>]]
+2018-10-26 17:15:00,737 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:15:00,737 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:15:00,832 DEBUG    [browser_driver_class:77] Work with object: [Домены]
+2018-10-26 17:15:00,855 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.8792238636041727-7")>]]
+2018-10-26 17:15:00,855 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:15:00,855 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:15:09,703 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:15:09,703 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:15:09,703 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:15:09,703 INFO     [browser_driver_class:100] Launch application: [Консоль]
+2018-10-26 17:15:09,857 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:15:09,857 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:15:09,857 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:15:09,857 INFO     [browser_driver_class:100] Launch application: [Консоль]
+2018-10-26 17:15:13,724 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-2")>]
+2018-10-26 17:15:13,882 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-2")>]
+2018-10-26 17:15:16,490 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-4")>]]
+2018-10-26 17:15:16,490 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-4")>]
+2018-10-26 17:15:16,494 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-4")>]]
+2018-10-26 17:15:16,494 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-3")>]
+2018-10-26 17:15:16,513 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:16,513 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-3")>]
+2018-10-26 17:15:16,525 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:16,525 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-3")>]
+2018-10-26 17:15:16,540 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:16,540 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-3")>]
+2018-10-26 17:15:16,554 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:16,554 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-4")>]
+2018-10-26 17:15:16,556 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:15:16,556 INFO     [browser_driver_class:74] Begins the search for text objects: ['Консоль'].
+2018-10-26 17:15:16,610 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:15:16,610 INFO     [browser_driver_class:74] Begins the search for text objects: ['Консоль'].
+2018-10-26 17:15:20,557 DEBUG    [browser_driver_class:77] Work with object: [Консоль]
+2018-10-26 17:15:20,580 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.522392137159442-8")>]]
+2018-10-26 17:15:20,581 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:15:20,581 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:15:20,612 DEBUG    [browser_driver_class:77] Work with object: [Консоль]
+2018-10-26 17:15:20,628 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.6238013457993767-8")>]]
+2018-10-26 17:15:20,629 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:15:20,629 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:15:30,499 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:15:30,499 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:15:30,499 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:15:30,499 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:15:30,499 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:15:30,499 INFO     [browser_driver_class:100] Launch application: [Управление услугами]
+2018-10-26 17:15:30,499 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:15:30,499 INFO     [browser_driver_class:100] Launch application: [Управление услугами]
+2018-10-26 17:15:34,523 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-2")>]
+2018-10-26 17:15:34,525 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-2")>]
+2018-10-26 17:15:37,664 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-4")>]]
+2018-10-26 17:15:37,665 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>]
+2018-10-26 17:15:37,722 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:37,722 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>]
+2018-10-26 17:15:37,733 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:37,733 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>]
+2018-10-26 17:15:37,743 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:37,744 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>]
+2018-10-26 17:15:37,754 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:37,754 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>]
+2018-10-26 17:15:37,768 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:37,768 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-3")>]
+2018-10-26 17:15:37,778 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:15:37,778 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-4")>]
+2018-10-26 17:15:37,822 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-4")>]]
+2018-10-26 17:15:37,822 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-4")>]
+2018-10-26 17:15:37,935 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:15:37,935 INFO     [browser_driver_class:74] Begins the search for text objects: ['Управление услугами'].
+2018-10-26 17:15:38,016 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:15:38,016 INFO     [browser_driver_class:74] Begins the search for text objects: ['Управление услугами'].
+2018-10-26 17:15:41,939 DEBUG    [browser_driver_class:77] Work with object: [Управление услугами]
+2018-10-26 17:15:41,969 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4371958134675744-8")>]]
+2018-10-26 17:15:41,969 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:15:41,969 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:15:42,020 DEBUG    [browser_driver_class:77] Work with object: [Управление услугами]
+2018-10-26 17:15:42,045 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.11130515264304708-7")>]]
+2018-10-26 17:15:42,045 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:15:42,045 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:15:51,226 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:15:51,227 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:15:51,227 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:15:51,227 INFO     [browser_driver_class:100] Launch application: [Профили алиасов]
+2018-10-26 17:15:51,459 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:15:51,459 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:15:51,459 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:15:51,459 INFO     [browser_driver_class:100] Launch application: [Профили алиасов]
+2018-10-26 17:15:55,245 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-2")>]
+2018-10-26 17:15:55,495 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-2")>]
+2018-10-26 17:15:57,469 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-4")>]]
+2018-10-26 17:15:57,469 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-4")>]
+2018-10-26 17:15:57,522 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:15:57,522 INFO     [browser_driver_class:74] Begins the search for text objects: ['Профили алиасов'].
+2018-10-26 17:15:57,811 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-4")>]]
+2018-10-26 17:15:57,811 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-4")>]
+2018-10-26 17:15:57,864 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:15:57,864 INFO     [browser_driver_class:74] Begins the search for text objects: ['Профили алиасов'].
+2018-10-26 17:16:01,524 DEBUG    [browser_driver_class:77] Work with object: [Профили алиасов]
+2018-10-26 17:16:01,547 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7518885691597805-8")>]]
+2018-10-26 17:16:01,547 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:01,547 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:01,868 DEBUG    [browser_driver_class:77] Work with object: [Профили алиасов]
+2018-10-26 17:16:01,900 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5665067330578022-7")>]]
+2018-10-26 17:16:01,900 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:01,900 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:09,650 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:16:09,650 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:16:09,650 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:16:09,650 INFO     [browser_driver_class:100] Launch application: [Кластеры RestFS]
+2018-10-26 17:16:10,036 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:16:10,037 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:16:10,037 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:16:10,037 INFO     [browser_driver_class:100] Launch application: [Кластеры RestFS]
+2018-10-26 17:16:13,669 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-2")>]
+2018-10-26 17:16:14,062 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-2")>]
+2018-10-26 17:16:15,934 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-4")>]]
+2018-10-26 17:16:15,934 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-4")>]
+2018-10-26 17:16:15,990 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:16:15,990 INFO     [browser_driver_class:74] Begins the search for text objects: ['Кластеры RestFS'].
+2018-10-26 17:16:16,332 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-4")>]]
+2018-10-26 17:16:16,343 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-4")>]
+2018-10-26 17:16:16,415 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:16:16,487 INFO     [browser_driver_class:74] Begins the search for text objects: ['Кластеры RestFS'].
+2018-10-26 17:16:19,993 DEBUG    [browser_driver_class:77] Work with object: [Кластеры RestFS]
+2018-10-26 17:16:20,013 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.14047866526183128-8")>]]
+2018-10-26 17:16:20,013 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:20,013 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:20,491 DEBUG    [browser_driver_class:77] Work with object: [Кластеры RestFS]
+2018-10-26 17:16:20,517 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.48317285803824506-8")>]]
+2018-10-26 17:16:20,518 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:20,518 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:28,781 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:16:28,781 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:16:28,781 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:16:28,781 INFO     [browser_driver_class:100] Launch application: [Документация]
+2018-10-26 17:16:29,727 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:16:29,727 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:16:29,727 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:16:29,727 INFO     [browser_driver_class:100] Launch application: [Документация]
+2018-10-26 17:16:32,803 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-2")>]
+2018-10-26 17:16:33,752 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-2")>]
+2018-10-26 17:16:35,465 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-4")>]]
+2018-10-26 17:16:35,465 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-4")>]
+2018-10-26 17:16:35,532 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:16:35,533 INFO     [browser_driver_class:74] Begins the search for text objects: ['Документация'].
+2018-10-26 17:16:36,108 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-4")>]]
+2018-10-26 17:16:36,108 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-4")>]
+2018-10-26 17:16:36,172 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:16:36,172 INFO     [browser_driver_class:74] Begins the search for text objects: ['Документация'].
+2018-10-26 17:16:39,535 DEBUG    [browser_driver_class:77] Work with object: [Документация]
+2018-10-26 17:16:39,554 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4738390505314656-8")>]]
+2018-10-26 17:16:39,554 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:39,554 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:40,172 DEBUG    [browser_driver_class:77] Work with object: [Документация]
+2018-10-26 17:16:40,189 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5320925194074713-8")>]]
+2018-10-26 17:16:40,189 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:40,189 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:47,689 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:16:47,689 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:16:47,689 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:16:47,689 INFO     [browser_driver_class:100] Launch application: [Календарь]
+2018-10-26 17:16:49,311 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:16:49,312 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:16:49,312 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:16:49,312 INFO     [browser_driver_class:100] Launch application: [Календарь]
+2018-10-26 17:16:51,710 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-2")>]
+2018-10-26 17:16:53,334 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-2")>]
+2018-10-26 17:16:54,296 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-4")>]]
+2018-10-26 17:16:54,296 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-3")>]
+2018-10-26 17:16:54,385 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:16:54,385 INFO     [browser_driver_class:74] Begins the search for text objects: ['Календарь'].
+2018-10-26 17:16:55,813 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-4")>]]
+2018-10-26 17:16:55,813 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-4")>]
+2018-10-26 17:16:55,833 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:16:55,833 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-3")>]
+2018-10-26 17:16:55,896 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:16:55,896 INFO     [browser_driver_class:74] Begins the search for text objects: ['Календарь'].
+2018-10-26 17:16:58,388 DEBUG    [browser_driver_class:77] Work with object: [Календарь]
+2018-10-26 17:16:58,408 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-8")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.03263389685417106-9")>]]
+2018-10-26 17:16:58,408 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:58,408 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:16:59,897 DEBUG    [browser_driver_class:77] Work with object: [Календарь]
+2018-10-26 17:16:59,927 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-8")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.042695824436913776-9")>]]
+2018-10-26 17:16:59,928 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:16:59,928 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:17:06,535 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:17:06,535 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:17:06,535 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:17:06,535 INFO     [browser_driver_class:100] Launch application: [MSR медиа регистраторы]
+2018-10-26 17:17:08,068 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:17:08,069 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:17:08,069 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:17:08,069 INFO     [browser_driver_class:100] Launch application: [MSR медиа регистраторы]
+2018-10-26 17:17:10,557 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-2")>]
+2018-10-26 17:17:12,087 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-2")>]
+2018-10-26 17:17:12,920 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-4")>]]
+2018-10-26 17:17:12,921 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-3")>]
+2018-10-26 17:17:12,944 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:17:12,944 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-4")>]
+2018-10-26 17:17:13,035 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:17:13,036 INFO     [browser_driver_class:74] Begins the search for text objects: ['MSR медиа регистраторы'].
+2018-10-26 17:17:14,377 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-4")>]]
+2018-10-26 17:17:14,377 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-4")>]
+2018-10-26 17:17:14,480 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:17:14,481 INFO     [browser_driver_class:74] Begins the search for text objects: ['MSR медиа регистраторы'].
+2018-10-26 17:17:17,038 DEBUG    [browser_driver_class:77] Work with object: [MSR медиа регистраторы]
+2018-10-26 17:17:17,057 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4004441748726457-8")>]]
+2018-10-26 17:17:17,058 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:17:17,058 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:17:18,482 DEBUG    [browser_driver_class:77] Work with object: [MSR медиа регистраторы]
+2018-10-26 17:17:18,503 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.6768885303273302-8")>]]
+2018-10-26 17:17:18,503 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:17:18,503 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:17:25,708 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:17:25,708 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:17:25,708 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:17:25,708 INFO     [browser_driver_class:100] Launch application: [Call-центр]
+2018-10-26 17:17:26,653 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:17:26,654 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:17:26,654 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:17:26,654 INFO     [browser_driver_class:100] Launch application: [Call-центр]
+2018-10-26 17:17:29,739 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-2")>]
+2018-10-26 17:17:30,682 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-2")>]
+2018-10-26 17:17:32,149 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-4")>]]
+2018-10-26 17:17:32,149 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-3")>]
+2018-10-26 17:17:32,167 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:17:32,168 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-4")>]
+2018-10-26 17:17:32,222 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:17:32,223 INFO     [browser_driver_class:74] Begins the search for text objects: ['Call-центр'].
+2018-10-26 17:17:33,198 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-4")>]]
+2018-10-26 17:17:33,199 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-3")>]
+2018-10-26 17:17:33,221 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:17:33,222 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-4")>]
+2018-10-26 17:17:33,272 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:17:33,272 INFO     [browser_driver_class:74] Begins the search for text objects: ['Call-центр'].
+2018-10-26 17:17:36,225 DEBUG    [browser_driver_class:77] Work with object: [Call-центр]
+2018-10-26 17:17:36,246 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.3786610938869581-7")>]]
+2018-10-26 17:17:36,246 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:17:36,246 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:17:37,273 DEBUG    [browser_driver_class:77] Work with object: [Call-центр]
+2018-10-26 17:17:37,290 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4916791916106933-7")>]]
+2018-10-26 17:17:37,290 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:17:37,290 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:17:44,886 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:17:44,886 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:17:44,886 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:17:44,886 INFO     [browser_driver_class:100] Launch application: [Домены]
+2018-10-26 17:17:45,402 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:17:45,402 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:17:45,402 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:17:45,402 INFO     [browser_driver_class:100] Launch application: [Домены]
+2018-10-26 17:17:48,902 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-2")>]
+2018-10-26 17:17:49,432 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-2")>]
+2018-10-26 17:17:51,172 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-4")>]]
+2018-10-26 17:17:51,172 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-4")>]
+2018-10-26 17:17:51,218 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:17:51,218 INFO     [browser_driver_class:74] Begins the search for text objects: ['Домены'].
+2018-10-26 17:17:51,704 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-4")>]]
+2018-10-26 17:17:51,705 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-3")>]
+2018-10-26 17:17:51,724 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:17:51,724 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-3")>]
+2018-10-26 17:17:51,734 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:17:51,734 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-3")>]
+2018-10-26 17:17:51,744 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:17:51,744 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-4")>]
+2018-10-26 17:17:51,798 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:17:51,799 INFO     [browser_driver_class:74] Begins the search for text objects: ['Домены'].
+2018-10-26 17:17:55,221 DEBUG    [browser_driver_class:77] Work with object: [Домены]
+2018-10-26 17:17:55,244 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.06463981765414739-7")>]]
+2018-10-26 17:17:55,244 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:17:55,244 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:17:55,801 DEBUG    [browser_driver_class:77] Work with object: [Домены]
+2018-10-26 17:17:55,817 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5300302986589707-7")>]]
+2018-10-26 17:17:55,817 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:17:55,818 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:18:03,875 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:18:03,875 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:18:03,875 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:18:03,875 INFO     [browser_driver_class:100] Launch application: [Консоль]
+2018-10-26 17:18:04,625 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:18:04,626 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:18:04,626 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:18:04,626 INFO     [browser_driver_class:100] Launch application: [Консоль]
+2018-10-26 17:18:07,890 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-2")>]
+2018-10-26 17:18:08,652 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-2")>]
+2018-10-26 17:18:10,014 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-4")>]]
+2018-10-26 17:18:10,014 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-3")>]
+2018-10-26 17:18:10,032 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:10,032 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-4")>]
+2018-10-26 17:18:10,088 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:18:10,088 INFO     [browser_driver_class:74] Begins the search for text objects: ['Консоль'].
+2018-10-26 17:18:10,795 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-4")>]]
+2018-10-26 17:18:10,795 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-3")>]
+2018-10-26 17:18:10,812 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:10,812 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-3")>]
+2018-10-26 17:18:10,821 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:10,821 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-3")>]
+2018-10-26 17:18:10,832 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:10,832 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-3")>]
+2018-10-26 17:18:10,844 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:10,844 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-4")>]
+2018-10-26 17:18:10,897 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:18:10,897 INFO     [browser_driver_class:74] Begins the search for text objects: ['Консоль'].
+2018-10-26 17:18:14,089 DEBUG    [browser_driver_class:77] Work with object: [Консоль]
+2018-10-26 17:18:14,110 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.9099211124715467-8")>]]
+2018-10-26 17:18:14,110 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:18:14,110 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:18:14,900 DEBUG    [browser_driver_class:77] Work with object: [Консоль]
+2018-10-26 17:18:14,920 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.5980091586281153-8")>]]
+2018-10-26 17:18:14,920 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:18:14,920 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:18:22,735 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:18:22,735 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:18:22,735 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:18:22,735 INFO     [browser_driver_class:100] Launch application: [Управление услугами]
+2018-10-26 17:18:23,956 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:18:23,956 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:18:23,956 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:18:23,956 INFO     [browser_driver_class:100] Launch application: [Управление услугами]
+2018-10-26 17:18:26,762 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-2")>]
+2018-10-26 17:18:27,977 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-2")>]
+2018-10-26 17:18:29,031 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-4")>]]
+2018-10-26 17:18:29,032 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,050 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,050 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,062 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,062 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,076 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,076 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,088 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,088 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,102 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,103 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,112 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,112 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-3")>]
+2018-10-26 17:18:29,121 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:18:29,122 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-4")>]
+2018-10-26 17:18:29,284 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:18:29,284 INFO     [browser_driver_class:74] Begins the search for text objects: ['Управление услугами'].
+2018-10-26 17:18:30,353 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-4")>]]
+2018-10-26 17:18:30,353 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-4")>]
+2018-10-26 17:18:30,474 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:18:30,474 INFO     [browser_driver_class:74] Begins the search for text objects: ['Управление услугами'].
+2018-10-26 17:18:33,286 DEBUG    [browser_driver_class:77] Work with object: [Управление услугами]
+2018-10-26 17:18:33,314 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.7295971164903992-8")>]]
+2018-10-26 17:18:33,314 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:18:33,314 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:18:34,478 DEBUG    [browser_driver_class:77] Work with object: [Управление услугами]
+2018-10-26 17:18:34,501 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4811115578631866-8")>]]
+2018-10-26 17:18:34,501 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:18:34,502 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:18:42,117 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:18:42,117 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:18:42,117 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:18:42,117 INFO     [browser_driver_class:100] Launch application: [Профили алиасов]
+2018-10-26 17:18:43,610 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:18:43,610 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:18:43,610 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:18:43,610 INFO     [browser_driver_class:100] Launch application: [Профили алиасов]
+2018-10-26 17:18:46,160 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-2")>]
+2018-10-26 17:18:47,642 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-2")>]
+2018-10-26 17:18:48,469 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-4")>]]
+2018-10-26 17:18:48,469 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-4")>]
+2018-10-26 17:18:48,532 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:18:48,532 INFO     [browser_driver_class:74] Begins the search for text objects: ['Профили алиасов'].
+2018-10-26 17:18:49,930 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-4")>]]
+2018-10-26 17:18:49,930 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-4")>]
+2018-10-26 17:18:49,993 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:18:49,993 INFO     [browser_driver_class:74] Begins the search for text objects: ['Профили алиасов'].
+2018-10-26 17:18:52,535 DEBUG    [browser_driver_class:77] Work with object: [Профили алиасов]
+2018-10-26 17:18:52,560 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.5813595059578873-8")>]]
+2018-10-26 17:18:52,560 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:18:52,560 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:18:53,996 DEBUG    [browser_driver_class:77] Work with object: [Профили алиасов]
+2018-10-26 17:18:54,025 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.4046075983674493-8")>]]
+2018-10-26 17:18:54,025 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:18:54,025 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:19:01,301 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:19:01,301 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:19:01,301 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:19:01,301 INFO     [browser_driver_class:100] Launch application: [Кластеры RestFS]
+2018-10-26 17:19:03,535 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:19:03,536 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:19:03,536 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:19:03,536 INFO     [browser_driver_class:100] Launch application: [Кластеры RestFS]
+2018-10-26 17:19:05,316 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-2")>]
+2018-10-26 17:19:07,519 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-4")>]]
+2018-10-26 17:19:07,519 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-4")>]
+2018-10-26 17:19:07,555 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-2")>]
+2018-10-26 17:19:07,627 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:19:07,628 INFO     [browser_driver_class:74] Begins the search for text objects: ['Кластеры RestFS'].
+2018-10-26 17:19:09,776 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-4")>]]
+2018-10-26 17:19:09,776 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-3")>]
+2018-10-26 17:19:09,795 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:19:09,795 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-4")>]
+2018-10-26 17:19:09,840 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:19:09,840 INFO     [browser_driver_class:74] Begins the search for text objects: ['Кластеры RestFS'].
+2018-10-26 17:19:11,629 DEBUG    [browser_driver_class:77] Work with object: [Кластеры RestFS]
+2018-10-26 17:19:11,643 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.12900374035951634-8")>]]
+2018-10-26 17:19:11,643 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:19:11,643 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:19:13,844 DEBUG    [browser_driver_class:77] Work with object: [Кластеры RestFS]
+2018-10-26 17:19:13,868 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.36197172933508903-8")>]]
+2018-10-26 17:19:13,868 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:19:13,868 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:19:20,373 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:19:20,373 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:19:20,374 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:19:20,374 INFO     [browser_driver_class:100] Launch application: [Документация]
+2018-10-26 17:19:22,658 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:19:22,658 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:19:22,658 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:19:22,659 INFO     [browser_driver_class:100] Launch application: [Документация]
+2018-10-26 17:19:24,399 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-2")>]
+2018-10-26 17:19:26,699 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-2")>]
+2018-10-26 17:19:26,744 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-4")>]]
+2018-10-26 17:19:26,745 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-3")>]
+2018-10-26 17:19:26,770 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:19:26,770 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-3")>]
+2018-10-26 17:19:26,786 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:19:26,786 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-4")>]
+2018-10-26 17:19:26,868 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:19:26,868 INFO     [browser_driver_class:74] Begins the search for text objects: ['Документация'].
+2018-10-26 17:19:29,051 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-4")>]]
+2018-10-26 17:19:29,052 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-3")>]
+2018-10-26 17:19:29,071 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:19:29,071 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-3")>]
+2018-10-26 17:19:29,082 DEBUG    [browser_driver_class:127] Exceptions when expand applications:
+ [Message: element not interactable
+  (Session info: chrome=70.0.3538.67)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+]
+2018-10-26 17:19:29,082 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-4")>]
+2018-10-26 17:19:29,137 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:19:29,137 INFO     [browser_driver_class:74] Begins the search for text objects: ['Документация'].
+2018-10-26 17:19:30,872 DEBUG    [browser_driver_class:77] Work with object: [Документация]
+2018-10-26 17:19:30,894 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4780891386707342-8")>]]
+2018-10-26 17:19:30,895 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:19:30,895 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:19:33,141 DEBUG    [browser_driver_class:77] Work with object: [Документация]
+2018-10-26 17:19:33,158 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3281653305015666-8")>]]
+2018-10-26 17:19:33,159 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:19:33,159 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:19:40,050 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:19:40,050 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:19:40,050 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:19:40,050 INFO     [browser_driver_class:100] Launch application: [Календарь]
+2018-10-26 17:19:41,272 DEBUG    [browser_driver_class:154] Close the window:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-1")>]
+All window:
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-1")>]]
+Number of closed applications:
+ [1]
+Number of applications:
+ [1]
+2018-10-26 17:19:41,273 DEBUG    [browser_driver_class:159] Exceptions when closing applications:
+ ['WebDriver' object has no attribute 'closeElemenAppl']
+2018-10-26 17:19:41,273 INFO     [browser_driver_class:161] Close all the window.
+2018-10-26 17:19:41,273 INFO     [browser_driver_class:100] Launch application: [Календарь]
+2018-10-26 17:19:44,079 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-2")>]
+2018-10-26 17:19:45,289 DEBUG    [browser_driver_class:104] Serch object application: [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-2")>]
+2018-10-26 17:19:46,488 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-3")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-4")>]]
+2018-10-26 17:19:46,488 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-3")>]
+2018-10-26 17:19:46,543 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:19:46,543 INFO     [browser_driver_class:74] Begins the search for text objects: ['Календарь'].
+2018-10-26 17:19:47,689 DEBUG    [browser_driver_class:114] Expand object application: [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-4")>]]
+2018-10-26 17:19:47,689 DEBUG    [browser_driver_class:122] Click object:
+ [<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-3")>]
+2018-10-26 17:19:47,740 DEBUG    [browser_driver_class:124] Click object.
+2018-10-26 17:19:47,740 INFO     [browser_driver_class:74] Begins the search for text objects: ['Календарь'].
+2018-10-26 17:19:50,547 DEBUG    [browser_driver_class:77] Work with object: [Календарь]
+2018-10-26 17:19:50,575 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-5")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-6")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-7")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-8")>, <selenium.webdriver.remote.webelement.WebElement (session="b5f44755b78182e1d24566c2c3589e63", element="0.4586682989374684-9")>]]
+2018-10-26 17:19:50,575 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:19:50,575 INFO     [browser_driver_class:132] Start close application...
+2018-10-26 17:19:51,744 DEBUG    [browser_driver_class:77] Work with object: [Календарь]
+2018-10-26 17:19:51,761 DEBUG    [browser_driver_class:79] Text found in object: 
+ [[<selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-7")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-8")>, <selenium.webdriver.remote.webelement.WebElement (session="ff1b11095a94ed12c8f228cd447ec31d", element="0.3450837862438132-9")>]]
+2018-10-26 17:19:51,761 INFO     [browser_driver_class:88] Everything in its place.
+2018-10-26 17:19:51,761 INFO     [browser_driver_class:132] Start close application...
