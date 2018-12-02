@@ -1,0 +1,7 @@
+{
+        "$schema":"http://json-schema.org/draft-04/schema#",
+        "id": "urn:method/authorization#",
+        "type": "string",
+        "additionalProperties": true,
+        "enum": ["applsClose"]
+}
