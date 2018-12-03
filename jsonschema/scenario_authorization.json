@@ -1,26 +1,23 @@
 {
         "$schema":"http://json-schema.org/draft-04/schema#",
-        "id": "urn:method/authorization#",
         "type": "object",
-        "additionalProperties": true,
+        "required" : ["author"],
         "properties": {
             "author": {
-                "type": "array",
-                "items": {
-                    "type": "object",
-                        "properties": {
-                            "login": {
-                              "type": "string",
-                                "minLength": 1,
-                                "maxLength": 70
-                            },
-                            "password": {
-                              "type": "string",
-                                "minLength": 0,
-                                "maxLength": 100
-                            }
-                        }
-                  }
+                "type": "object",
+                "required": ["login", "password"],
+                "properties": {
+                      "login": {
+                        "type": "string",
+                          "minLength": 1,
+                          "maxLength": 70
+                      },
+                      "password": {
+                        "type": "string",
+                          "minLength": 0,
+                          "maxLength": 100
+                      }
+                }
+                }
             }
-        }
-    }
+}

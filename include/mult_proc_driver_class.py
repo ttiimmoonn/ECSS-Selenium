@@ -9,12 +9,6 @@ import signal
 from datetime import datetime
 from multiprocessing import Process, Queue, Manager
 
-from selenium import webdriver
-import selenium.webdriver.chrome.service as service
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-from selenium.common.exceptions import NoSuchElementException
-from pyvirtualdisplay import Display
-
 from test_1 import browser_watcher, work
 
 
