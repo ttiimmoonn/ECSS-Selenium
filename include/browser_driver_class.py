@@ -18,7 +18,7 @@ from pyvirtualdisplay import Display
 logger = logging.getLogger("logger")
 
 
-class ECSS_webdribe():
+class ECSSWebdribe():
     def __init__(self, path_web_driver, path_chrome, status_display, serv_url, timer={"short":2,"average":4,"long":10}, mode="CHROME"):
         """
         Класс создающий браузерное окно и выполняющий действия

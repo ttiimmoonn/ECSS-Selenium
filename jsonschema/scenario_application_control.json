@@ -6,8 +6,7 @@
                 "applsControl": {
                         "type": "string",
                         "enum": [
-                                "Stop",
-                                "Start"
+                                "Stop"
                         ]
                 }
         }

@@ -12,22 +12,6 @@ from multiprocessing import Process, Queue, Manager
 from test_1 import browser_watcher, work
 
 
-def signal_handler(current_signal, frame):
-    """
-    Удаляем все процессы в случаи завершения через сигнал используя функцию stopProcess
-    :param current_signal:
-    :param frame:
-    :return:
-    """
-    signal.signal(signal.SIGINT, signal.SIG_IGN)
-    logger.info("Received signal %s. Start aborting", current_signal)
-    if "test" in globals():
-        test.stopProcess()
-    sys.exit(1)
-
-
-signal.signal(signal.SIGINT, signal_handler)
-
 
 class MultProcess():
     def __init__(self, countDrive = 1, infintTest = False):
